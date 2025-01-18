@@ -1,8 +1,0 @@
-Flask
-Flask-Cors
-pytesseract
-pdf2image
-transformers
-openai
-sentence-transformers
-torch
