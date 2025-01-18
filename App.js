@@ -24,7 +24,7 @@ import {
 import { CloudUpload as CloudUploadIcon, Menu as MenuIcon } from "@mui/icons-material";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import { motion } from "framer-motion";
-import Logo from "./assets/images/LV (2).png"; // Correct path for logo
+
 
 const theme = createTheme({
   palette: {
